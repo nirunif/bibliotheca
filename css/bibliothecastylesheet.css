@@ -1,0 +1,28 @@
+﻿body {
+    
+}
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #D0ECE7;
+    }
+
+#footer1 {
+    background: #34495E;
+}
+
+#footer2 {
+    background: #212F3C;
+}
+
+.fileupload {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    width: 100%;
+    height: 32px;
+    pointer-events: none;
+}
